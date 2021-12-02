@@ -1,0 +1,157 @@
+.primera {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+}
+.item1-1 {
+  flex-grow: 1;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+
+.item2-1 {
+  flex-grow: 10;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 50px;
+}
+
+.segunda {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.item1-2 {
+  flex-grow: 10;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+
+.item2-2 {
+  flex-grow: 1;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 20px;
+}
+
+.item3-2 {
+  flex-grow: 4;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+.tercera {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+}
+.item1-3 {
+  flex-grow: 1;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+
+.item2-3 {
+  flex-grow: 4;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 20px;
+}
+
+.item3-3 {
+  flex-grow: 10;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+.cuarta {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.item1-4 {
+  flex-grow: 4;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 20px;
+}
+.item2-4 {
+  flex-grow: 1;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+.item3-4 {
+  flex-grow: 4;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 20px;
+}
+.item4-4 {
+  flex-grow: 1;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 10px;
+}
+.item5-4 {
+  flex-grow: 4;
+  background-color: greenyellow;
+  border-color: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 100px;
+  margin: 20px;
+}

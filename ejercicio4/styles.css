@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.encabezado {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: red;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 20px;
+}
+.list-i {
+  display: inline-block;
+  margin: 0px;
+  color: white;
+  padding: 20px;
+}
+.botón {
+  padding: 5px;
+  color: red;
+  background-color: white;
+  border-radius: 10px;
+  width: 50px;
+}
+.main-content {
+}
+
+.principal {
+  background-color: springgreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.data1 {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
